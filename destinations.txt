@@ -1,0 +1,11 @@
+# name|state|description|attractions|hotels|restaurants|transport
+Agra|Uttar Pradesh|Home of the iconic Taj Mahal and a rich Mughal heritage.|Taj Mahal;Agra Fort;Mehtab Bagh|Hotel Taj View;The Grand Imperial|Peshawri;Pinch of Spice|Airport taxi;Railway station;City buses
+Jaipur|Rajasthan|The Pink City blends royal forts, colorful bazaars and local craft.|Amber Fort;Hawa Mahal;City Palace|Rambagh Palace;Hotel Pearl Palace|1135 AD;Laxmi Misthan Bhandar|Jaipur airport;Metro;Auto-rickshaw
+Varanasi|Uttar Pradesh|An ancient riverside city known for ghats, temples and evening aarti.|Dashashwamedh Ghat;Sarnath;Kashi Vishwanath Temple|BrijRama Palace;Hotel Ganges Grand|Kashi Chat Bhandar;Baati Chokha|Varanasi airport;E-rickshaw;Boat rides
+Delhi|Delhi|India's capital offers historic monuments, museums and lively neighborhoods.|Red Fort;India Gate;Qutub Minar|The Imperial;Bloomrooms|Karim's;Indian Accent|Metro;Airport Express;App-based taxis
+Mumbai|Maharashtra|A coastal metropolis where art deco, Bollywood and street food meet.|Gateway of India;Marine Drive;Elephanta Caves|Taj Mahal Palace;Abode Bombay|Trishna;Cafe Madras|Local trains;Metro;Ferries
+Goa|Goa|A relaxed coastal escape with beaches, Portuguese architecture and seafood.|Baga Beach;Basilica of Bom Jesus;Dudhsagar Falls|Taj Exotica;Fort Tiracol|Viva Panjim;Gunpowder|Dabolim airport;Scooter rental;Ferries
+Kochi|Kerala|A welcoming port city with spice-trade history and backwater gateways.|Fort Kochi;Chinese Fishing Nets;Mattancherry Palace|Brunton Boatyard;Forte Kochi|Paragon;Kashi Art Cafe|Metro;Ferries;Airport shuttle
+Kolkata|West Bengal|A cultural capital celebrated for literature, food and colonial landmarks.|Victoria Memorial;Howrah Bridge;Indian Museum|The Oberoi Grand;Calcutta Bungalow|6 Ballygunge Place;Peter Cat|Metro;Trams;Yellow taxis
+Hyderabad|Telangana|A historic Deccan city famous for biryani, forts and technology.|Charminar;Golconda Fort;Hussain Sagar|Taj Falaknuma Palace;ITC Kohenur|Shah Ghouse;Rayalaseema Ruchulu|Metro;Airport bus;App-based taxis
+Amritsar|Punjab|A warm, flavorful city anchored by the Golden Temple and Sikh history.|Golden Temple;Jallianwala Bagh;Wagah Border|Ramada Amritsar;Welcomhotel|Kesar Da Dhaba;Bharawan Da Dhaba|Airport taxi;Auto-rickshaw;Intercity trains
