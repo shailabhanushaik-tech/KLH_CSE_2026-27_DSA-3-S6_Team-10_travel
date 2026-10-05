@@ -3,7 +3,7 @@ Team Members: : Madhulika[25200030151]
 Shaila[2520030299]
 Abhiram[2520030170]
 
-Supervisor:Dr.v.Sireesha
+Supervisor:Dr.V.Sireesha
 
 ### *An Enterprise Indian Travel Portal Powered Internally by Advanced DSA-3 Algorithms*
 
