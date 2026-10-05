@@ -2,7 +2,6 @@
 Team Members: : Madhulika[25200030151] 
 Shaila[2520030299]
 Abhiram[2520030170]
-<img width="620" height="255" alt="image" src="https://github.com/user-attachments/assets/3c2c6793-5fa1-47b7-9074-799ae4e316b0" />
 
 Supervisor:Dr.v.Sireesha
 
